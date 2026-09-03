@@ -1,0 +1,6 @@
+{
+  "name": "ForosLiveVideo",
+  "description": "A feature-rich video sharing platform featuring video scheduling, automated uploads, playlist management, tracking metrics, and built-in copyright verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
